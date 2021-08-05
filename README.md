@@ -1,2 +1,1 @@
-# DjangoProject
-This is a project that I did for IT 409, python web programming. It allows for customers to be created, then those customers can have addresses and orders. 
+using "manage.py runserver" will open the webpage on the local address. will allow for customers to be made, for addresses to be tied to specific customers, and orders to be tied to specific customers This project utilizes many django functionalities such as forms, serializers, views, and more
